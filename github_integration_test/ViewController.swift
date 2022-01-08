@@ -14,7 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print ("first")
+        print ("first commit")
     }
 
     override var representedObject: Any? {
